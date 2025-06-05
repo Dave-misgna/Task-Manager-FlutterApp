@@ -13,13 +13,20 @@ A Flutter application that allows users to:
 
 
 Prerequisites
+
 Flutter SDK (latest version)
+
 A device/emulator for testing
 
+
 Steps
+
 1,Clone the Repository:
+
 git clone https://github.com/your-username/flutter-todo-app.git
+
 cd flutter-todo-app
+
 
 2,Run the App:
 
