@@ -1,11 +1,13 @@
-Flutter To-Do App
-
+📋 Flutter To-Do App
 A clean, modular Flutter application that allows users to:
 
-Display a list of tasks
-Add new tasks
-Mark tasks as completed
-Delete tasks
+✅ Display a list of tasks
+
+➕ Add new tasks
+
+☑️ Mark tasks as completed
+
+❌ Delete tasks
 
 
 Prerequisites
