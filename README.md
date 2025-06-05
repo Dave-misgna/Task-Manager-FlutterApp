@@ -1,5 +1,7 @@
 📋 Flutter To-Do App
-A clean, modular Flutter application that allows users to:
+
+
+A Flutter application that allows users to:
 
 ✅ Display a list of tasks
 
